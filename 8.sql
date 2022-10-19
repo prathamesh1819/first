@@ -1,3 +1,5 @@
+#chabges made by prathamesh in sql file
+
 show databases;
 
 create database product;
